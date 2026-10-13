@@ -42,4 +42,4 @@ Some experiments require datasets or model weights that are not committed becaus
 
 ## Author
 
-[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laiba-k-00b2b1249/)
+[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laibakhawar/)
